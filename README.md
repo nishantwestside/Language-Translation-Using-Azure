@@ -1,4 +1,4 @@
-*Language Translation Using Azure*
+## *Language Translation Using Azure*
 
 Project URL: https://github.com/nishantwestside/Language-Translation-Using-Azure
 
