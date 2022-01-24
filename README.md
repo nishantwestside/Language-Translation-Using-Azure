@@ -1,6 +1,7 @@
 ## *Language Translation Using Azure*
 
 Project URL: https://github.com/nishantwestside/Language-Translation-Using-Azure
+Demo URL: https://drive.google.com/drive/folders/1UukZufzko5Yd-htt_yRGTL3My9HUTDw7?usp=sharing
 
 # Translator
 
