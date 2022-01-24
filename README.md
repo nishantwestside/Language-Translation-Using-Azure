@@ -74,6 +74,9 @@ Dictionary lookup. Returns equivalent words for the source term in the target la
 
 Dictionary example Returns grammatical structure and context examples for the source term and target term pair.
 
+![image](https://user-images.githubusercontent.com/77064606/150808720-11ee63a4-d289-4923-ba2b-151d95800628.png)
+
+
 ## Demo
 
 ![2020-08-03 (7)](https://user-images.githubusercontent.com/48589838/89154539-af335e00-d584-11ea-8398-7792510ce065.png)
